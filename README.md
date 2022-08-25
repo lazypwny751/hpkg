@@ -1,2 +1,2 @@
 # hpkg
-the base of the hera package manager.
+base of the hera package manager.
